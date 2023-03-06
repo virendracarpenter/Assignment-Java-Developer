@@ -243,7 +243,7 @@ The below image represents a grid having 11x11 nodes numbered from 0 to 10.
 
 The below graph shows the path of **“NNNNEEENE”** starting from (0,0) 
 
-![]('./img.png')
+![img](img.png)
 
 Write a program to take   
 
